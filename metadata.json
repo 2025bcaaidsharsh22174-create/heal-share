@@ -1,0 +1,9 @@
+
+{
+  "name": "SevaSetu - Indian Public Service Platform",
+  "description": "A comprehensive government-compliant platform connecting citizens with NGOs, providing AI-powered medicine verification, and ensuring transparent donation tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
